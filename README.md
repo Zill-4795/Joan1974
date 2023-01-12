@@ -5,7 +5,7 @@ I am Zill studying at USM now.
 ## Final Year Project (FYP)
 
 ### Toxland Adventure – My Safe Lab: The Toxicology Game
-This project under TS. Dr. Sharifah Mashita Syed Mohamad.
+This project under Dr. Nor Athiyah Abdullah (SMSM).
 ### Subsystem: 
 > Subsystem 1: Toxicology Quest.
 > 
